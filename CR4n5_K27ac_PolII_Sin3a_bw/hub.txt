@@ -1,0 +1,5 @@
+hub CR4n5_K27ac_PolII_Sin3a_bw
+shortLabel CR4n5_K27ac_PolII_Sin3a_bw
+longLabel CR4n5_K27ac_PolII_Sin3a_bw
+genomesFile genomes.txt
+email maarowosegbe@ucsd.edu
